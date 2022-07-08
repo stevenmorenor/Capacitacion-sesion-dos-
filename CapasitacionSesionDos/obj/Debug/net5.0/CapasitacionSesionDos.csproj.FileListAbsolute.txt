@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\bin\Debug\net5.0\CapasitacionSesionDos.exe
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\bin\Debug\net5.0\CapasitacionSesionDos.deps.json
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\bin\Debug\net5.0\CapasitacionSesionDos.runtimeconfig.json
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\bin\Debug\net5.0\CapasitacionSesionDos.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\bin\Debug\net5.0\CapasitacionSesionDos.dll
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\bin\Debug\net5.0\CapasitacionSesionDos.pdb
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\CapasitacionSesionDos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\CapasitacionSesionDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\CapasitacionSesionDos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\CapasitacionSesionDos.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\CapasitacionSesionDos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\CapasitacionSesionDos.dll
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\refint\CapasitacionSesionDos.dll
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\CapasitacionSesionDos.pdb
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\CapasitacionSesionDos.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\CapasitacionSesionDos\CapasitacionSesionDos\obj\Debug\net5.0\ref\CapasitacionSesionDos.dll
